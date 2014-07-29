@@ -1,24 +1,24 @@
 {
-    "name": "CIReference",
+    "name": "turistaphil.tk",
     "version": "0.0.1",
-    "description": "CIReference",
+    "description": "Philippine Tour Site",
     "main": "Grunt.js",
     "scripts": {
         "test": "Grunt"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/johnleonard0105/jmbportfolio.tk.git"
+        "url": "https://github.com/johnleonard0105/turistaphil.tk.git"
     },
     "keywords": [
-        "CIReference"
+        "turistaphil.tk"
     ],
     "author": "Joe Marie Bonilla",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/johnleonard0105/jmbportfolio.tk/issues"
+        "url": "https://github.com/johnleonard0105/turistaphil.tk/issues"
     },
-    "homepage": "https://github.com/johnleonard0105/jmbportfolio.tk",
+    "homepage": "https://github.com/johnleonard0105/turistaphil.tk",
     "devDependencies": {
         "grunt": "^0.4.5",
         "grunt-autoprefixer": "^0.8.2",
