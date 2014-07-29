@@ -1,0 +1,37 @@
+{
+    "name": "CIReference",
+    "version": "0.0.1",
+    "description": "CIReference",
+    "main": "Grunt.js",
+    "scripts": {
+        "test": "Grunt"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/johnleonard0105/jmbportfolio.tk.git"
+    },
+    "keywords": [
+        "CIReference"
+    ],
+    "author": "Joe Marie Bonilla",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/johnleonard0105/jmbportfolio.tk/issues"
+    },
+    "homepage": "https://github.com/johnleonard0105/jmbportfolio.tk",
+    "devDependencies": {
+        "grunt": "^0.4.5",
+        "grunt-autoprefixer": "^0.8.2",
+        "grunt-banner": "^0.2.3",
+        "grunt-contrib-concat": "^0.5.0",
+        "grunt-contrib-copy": "^0.5.0",
+        "grunt-contrib-cssmin": "^0.10.0",
+        "grunt-contrib-less": "^0.11.3",
+        "grunt-contrib-uglify": "^0.5.1",
+        "grunt-contrib-watch": "^0.6.1",
+        "grunt-phpunit": "^0.3.3"
+    },
+    "dependencies": {
+        "autoprefixer": "^2.1.1"
+    }
+}

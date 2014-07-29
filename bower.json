@@ -1,0 +1,33 @@
+{
+    "name": "turistaphil.tk",
+    "version": "0.0.1",
+    "authors": [
+        "Joe Marie Bonilla"
+    ],
+    "description": "My Portfolio",
+    "main": "bower",
+    "keywords": [
+        "Portfolios"
+    ],
+    "license": "MIT",
+    "homepage": "turistaphil.tk",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components"
+    ],
+    "dependencies": {
+        "bootstrap": "master",
+        "font-awesome": "master",
+        "html5-boilerplate": "master"
+    },
+    "devDependencies": {
+        "bootstrap-social": "~4.5.1",
+        "jquery-file-upload": "~9.7.0",
+        "blueimp-gallery": "~2.15.1",
+        "blueimp-bootstrap-image-gallery": "~3.1.1",
+        "bootstrap-wysihtml5": "*",
+        "bootflat": "*",
+        "bootflatv2": "~2.0.3"
+    }
+}
